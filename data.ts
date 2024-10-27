@@ -1,4 +1,3 @@
-// data.ts
 import { Serie } from './serie.js';
 
 export const series: Serie[] = [

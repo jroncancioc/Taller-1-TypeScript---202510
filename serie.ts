@@ -1,4 +1,3 @@
-// serie.ts
 export class Serie {
     constructor(
       public id: number,

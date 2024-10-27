@@ -1,4 +1,3 @@
-// serie.ts
 var Serie = /** @class */ (function () {
     function Serie(id, name, channel, seasons) {
         this.id = id;
