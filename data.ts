@@ -7,5 +7,4 @@ export const series: Serie[] = [
   { id: 4, name: "The big bang theory", channel: "CBS", seasons: 12},
   { id: 5, name: "Sherlock", channel: "BBC", seasons: 4},
   { id: 6, name: "A Very English Scandal", channel: "BBC", seasons: 2}
- 
 ];

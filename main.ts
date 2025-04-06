@@ -20,7 +20,6 @@ function renderSeriesInTable(): void {
     `;
     tableBody.appendChild(row);
 
-
     totalSeasons += serie.seasons;
   });
 
